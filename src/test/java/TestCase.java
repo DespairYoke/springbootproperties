@@ -16,6 +16,7 @@ public class TestCase {
     public void test1(){
         System.out.println(controllerTest.getName());
         System.out.println(controllerTest.getAge());
+        System.out.println(controllerTest.getPerson());
     }
 
 }
